@@ -1,14 +1,28 @@
 {
   "name": "nodent-loader",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A loader for webpack to transform ES7 async/await statements using nodent",
   "main": "nodent-loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "lozlow",
+  "license": "BSD-2-Clause",
   "dependencies": {
     "nodent": "^2.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lozlow/nodent-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lozlow/nodent-loader/issues"
+  },
+  "homepage": "https://github.com/lozlow/nodent-loader#readme",
+  "keywords": [
+    "nodent",
+    "async",
+    "await"
+  ]
 }
