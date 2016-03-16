@@ -1,0 +1,14 @@
+{
+  "name": "nodent-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodent-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodent": "^2.4.1"
+  }
+}
