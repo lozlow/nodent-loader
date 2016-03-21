@@ -1,6 +1,6 @@
 {
   "name": "nodent-loader",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A loader for webpack to transform ES7 async/await statements using nodent",
   "main": "nodent-loader.js",
   "scripts": {
