@@ -1,6 +1,6 @@
 {
   "name": "nodent-loader",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A loader for webpack to transform ES7 async/await statements using nodent",
   "main": "nodent-loader.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "loader-utils": "^0.2.12",
-    "nodent": "^2.4.1"
+    "nodent": "^2.5.0"
   },
   "devDependencies": {},
   "repository": {
